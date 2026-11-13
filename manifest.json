@@ -1,11 +1,13 @@
 {
   "name": "Binance",
   "short_name": "Binance",
-  "start_url": "./index.html",
+  "description": "Binance Exchange & Crypto Wallet",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#181A20",
-  "theme_color": "#181A20",
   "orientation": "portrait",
+  "background_color": "#181E25",
+  "theme_color": "#181E25",
   "icons": [
     {
       "src": "./icon-192.png",
